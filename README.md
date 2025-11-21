@@ -12,7 +12,7 @@ The project began by building and validating the RTL architecture for the SPI–
 - 🔍 Hierarchy & structural checks during elaboration  
   - Modules, primitives, registers, connectivity  
 - ✔ **Cadence Conformal LEC**  
-  - Achieved 100% PASS  
+  - Achieved 100% PASS 
   - All **16 compare points** matched between RTL and synthesized netlist  
 
 **Result:** Functional and structural correctness ensured before synthesis.
